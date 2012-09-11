@@ -1,0 +1,10 @@
+CHANGE LOG
+==========
+
+[Mar 16 2011 - by Nguyen nguyenviethuy@gmail.com]
+Base version: 1.0.4
+- tmpl/default.php: remove "jeeje" text
+! tmpl/default.php: fix some Undefined properties
++ css/float.css: new css, display cats in floating mod (1 line)
+! mod_phocagallery_ctgry.php: add default values for var(s)
+! helper.php: add default values for var(s)

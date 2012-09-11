@@ -1,0 +1,37 @@
+.pg_data img{
+ margin: 0 28px 0 0;
+ width: 160px;
+ height: 83px;
+ border: 1px solid #707070;
+}
+.pg_data a.image{
+  float: left;
+}
+.pg_data h4{
+  background: url(../images/h4.png) 0 0px no-repeat;
+  float: left;
+  padding: 1px 0 1px 24px !important;
+  margin: 5px 0;
+}
+.pg_data h4 a{
+  color: #b9009d !important;
+  font-weight: bold;
+}
+.cat_description {
+  float: left;
+  width: 400px;
+}
+.one_item {
+  width: 100%;
+  padding: 15px 0 0 0;
+  position: relative;
+  background: url(../images/dots.gif) 0 bottom repeat-x;
+}
+.moduletable h3 {
+  border-bottom: 1px dashed #969696;
+  padding-bottom: 3px !important;
+}
+a.read_more {
+  color: #b9009d !important;
+  text-decoration: none;
+}
