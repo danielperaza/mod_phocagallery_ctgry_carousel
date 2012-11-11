@@ -1,25 +1,1 @@
-.pg_data img{
-}
-.pg_data a.image{
-  float: left;
-  margin:0;
-}
-.pg_data h4{
-  float: left;
-  text-align: center;
-  margin: 5px 0;
-}
-.cat_description {
-  float: left;
-  width: 400px;
-}
-.one_item {
-  width: 100px;
-  padding: 0;
-  margin: 5px 10px 5px 0;
-  float: left;
-}
-a.read_more {
-  color: #b9009d;
-  text-decoration: none;
-}
+.pg_data a.image{float:left;margin:0;}.pg_data h4{float:left;text-align:center;margin:5px 0;}.cat_description{float:left;width:400px;}.one_item{width:100px;padding:0;margin:5px 10px 5px;float:left;}a.read_more{color:#b9009d;text-decoration:none;}
